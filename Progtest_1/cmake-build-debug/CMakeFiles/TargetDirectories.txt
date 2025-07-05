@@ -1,0 +1,3 @@
+C:/BIE-AG1/Progtest_1/cmake-build-debug/CMakeFiles/Progtest_1.dir
+C:/BIE-AG1/Progtest_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/BIE-AG1/Progtest_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
